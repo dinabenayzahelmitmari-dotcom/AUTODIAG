@@ -1,0 +1,6 @@
+{
+  "name": "AutoDiag Studio - Plataforma Inteligente de Diagnóstico Automotriz",
+  "description": "Plataforma técnica profesional para talleres mecánicos con asistente de diagnóstico IA para averías eléctricas, electrónicas y electromecánicas, gestión de clientes, vehículos, órdenes de trabajo, DTCs y esquemas eléctricos interactivos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
